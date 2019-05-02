@@ -1,3 +1,7 @@
+# https://www.codewars.com/kata/simple-fun-number-1-seats-in-theater
+# RUBY: 8ku - Puzzles
+# COMPLETED
+
 def seats_in_theater(tot_cols, tot_rows, col, row)
   output = 0
   output = (tot_cols - col + 1) * (tot_rows - row)
