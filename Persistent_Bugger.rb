@@ -1,4 +1,6 @@
 # Persistent Bugger
+# https://www.codewars.com/kata/persistent-bugger/ruby
+# Ruby: fundamentals, numbers
 
 def persistence(n)
   input = n.digits
@@ -17,3 +19,12 @@ def persistence(n)
     end
   end
 end
+
+p persistence(39)
+p "answers = 3"
+p persistence(4)
+p "answers = 0"
+p persistence(25)
+p "answers = 2"
+p persistence(999)
+p "answers = 4"
