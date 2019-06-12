@@ -1,6 +1,7 @@
 # Persistent Bugger
 # https://www.codewars.com/kata/persistent-bugger/ruby
 # Ruby: fundamentals, numbers
+# COMPLETE
 
 def persistence(n)
   input = n.digits
